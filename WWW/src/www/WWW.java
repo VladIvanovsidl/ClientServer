@@ -1,12 +1,11 @@
 package www;
 
 
-
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class WWW implements Closeable{
+public class WWW implements Closeable {
     private final Socket socket;
     private final BufferedReader reader;
     private final BufferedWriter writer;
