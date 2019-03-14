@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WWW">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/WWW/WWW.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

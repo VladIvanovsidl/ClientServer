@@ -7,6 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="WWW" />
+    <orderEntry type="library" name="WWW" level="project" />
   </component>
 </module>
